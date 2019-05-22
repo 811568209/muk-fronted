@@ -3,6 +3,7 @@
 
 > A Vue.js project
 
+前端使用vue，后端使用node
 ## Build Setup
 
 ``` bash
