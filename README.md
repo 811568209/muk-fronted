@@ -4,6 +4,9 @@
 > A Vue.js project
 
 前端使用vue，后端使用node
+
+在线访问地址：http://2444f679p9.wicp.vip:37469/muk/
+
 ## Build Setup
 
 ``` bash
